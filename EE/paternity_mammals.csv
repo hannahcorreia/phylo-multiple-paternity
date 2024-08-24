@@ -1,0 +1,67 @@
+"species","common_name","sci_name","phylo_name","nbrood","avgbrood","avgsire","pmult","Bmass","logBm"
+"Cheetah, Acinonyx jubatus","Cheetah","Acinonyx jubatus","Acinonyx_jubatus",23,3,1.5,0.435,50577.92,4.704
+"Agile antechinus, Antechinus agilis","Agile antechinus","Antechinus agilis","Antechinus_agilis",47,7.7,2.8,0.978,22.13,1.345
+"Swamp antechinus, Antechinus minimus","Swamp antechinus","Antechinus minimus","Antechinus_minimus",10,6.1,2,0.8,52.56,1.721
+"Stuart's antechinus, Antechinus stuartii","Stuart's antechinus","Antechinus stuartii","Antechinus_stuartii",39,4.4,2.8,0.923,29.1,1.464
+"Pronghorn, Antilocapra americana","Pronghorn","Antilocapra americana","Antilocapra_americana",25,2,1.4,0.44,47450.01,4.676
+"Striped field mouse, Apodemus agrarius","Striped field mouse","Apodemus agrarius","Apodemus_agrarius",44,6.5,1.8,0.636,21.11,1.324
+"Yellow-necked field mouse, Apodemus flavicollis","Yellow-necked field mouse","Apodemus flavicollis","Apodemus_flavicollis",35,5,1.5,0.514,31.6,1.5
+"Wood mouse, Apodemus sylvaticus","Wood mouse","Apodemus sylvaticus","Apodemus_sylvaticus",28,4.7,1.7,0.643,21.9,1.34
+"Ural field mouse, Apodemus uralensis","Ural field mouse","Apodemus uralensis","Apodemus_uralensis",46,5,1.4,0.435,18.26,1.262
+"Cape dune mole rat, Bathyergus suillus","Cape dune mole rat","Bathyergus suillus","Bathyergus_suillus",19,2.7,1.3,0.263,777.38,2.891
+"Ethiopian wolf, Canis simensis","Ethiopian wolf","Canis simensis","Canis_simensis",12,4.7,1.3,0.333,14361.86,4.157
+"Roe deer, Capreolus capreolus","Roe deer","Capreolus capreolus","Capreolus_capreolus",33,2.1,1.2,0.155,22502.01,4.352
+"North American Beaver, Castor canadensis","North American Beaver","Castor canadensis","Castor_canadensis",9,3.7,1.6,0.556,18124.41,4.258
+"Brazilian guinea pig, Cavia aperea","Brazilian guinea pig","Cavia aperea","Cavia_aperea",15,3.9,1.3,0.267,524.38,2.72
+"White-toothed shrew, Crocidura russula","White-toothed shrew","Crocidura russula","Crocidura_russula",42,2.3,1,0,9.89,0.995
+"Asian lesser wihte-toothed shrew, Crocidura shantungensis","Asian lesser wihte-toothed shrew","Crocidura shantungensis","Crocidura_shantungensis",18,3,1.3,0.277,9.5,0.978
+"Spotted hyena, Crocuta crocuta","Spotted hyena","Crocuta crocuta","Crocuta_crocuta",102,2,1.3,0.333,63369.98,4.802
+"Northern quoll, Dasyurus hallucatus","Northern quoll","Dasyurus hallucatus","Dasyurus_hallucatus",14,5.7,4.3,1,365.32,2.563
+"Spotted-tailed quoll,  Dasyurus maculatus","Spotted-tailed quoll"," Dasyurus maculatus","Dasyurus_maculatus",6,5,1.8,0.667,3284.15,3.516
+"Virginia opossum, Didelphis virginiana","Virginia opossum","Didelphis virginiana","Didelphis_virginiana",64,8.7,1.4,0.406,2442.08,3.388
+"Big brown bat, Eptesicus fuscus","Big brown bat","Eptesicus fuscus","Eptesicus_fuscus",26,2,1.5,0.462,17.49,1.243
+"Western European hedgehog, Erinaceus europaeus","Western European hedgehog","Erinaceus europaeus","Erinaceus_europaeus",5,5,1.4,0.4,777.95,2.891
+"Domestic cat, Felis catus","Domestic cat","Felis catus","Felis_catus",92,3.8,1.8,0.554,2884.8,3.46
+"European edible dormouse, Glis glis","European edible dormouse","Glis glis","Glis_glis",21,4.2,1.8,0.714,NA,NA
+"Wolverine, Gulo gulo","Wolverine","Gulo gulo","Gulo_gulo",43,2.1,1,0,12792.49,4.107
+"Silvery mole rat, Heliophobius argenteocinereus","Silvery mole rat","Heliophobius argenteocinereus","Heliophobius_argenteocinereus",11,3.5,1.1,0.091,159.46,2.203
+"Striped hyena, Hyaena hyaena","Striped hyena","Hyaena hyaena","Hyaena_hyaena",4,2.5,1.5,0.5,35070.51,4.545
+"Brandt's vole, Lasiopodomys brandtii","Brandt's vole","Lasiopodomys brandtii","Lasiopodomys_brandtii",27,7.1,1.5,0.458,40,1.602
+"Eastern red bat, Lasiurus borealis","Eastern red bat","Lasiurus borealis","Lasiurus_borealis",31,3.1,1.9,0.71,10,1
+"Snowshoe hare, Lepus americanus","Snowshoe hare","Lepus americanus","Lepus_americanus",16,4,1.3,0.25,1568.42,3.195
+"African wild dog, Lycaon pictus","African wild dog","Lycaon pictus","Lycaon_pictus",6,4.2,1.2,0.167,21999.9,4.342
+"Alpine marmot, Marmota marmota","Alpine marmot","Marmota marmota","Marmota_marmota",68,3.5,1.3,0.265,4059.15,3.608
+"Woodchuck, Marmota monax","Woodchuck","Marmota monax","Marmota_monax",26,3.5,1.8,0.631,3880.93,3.589
+"Natal multimammate mouse, Mastomys natalensis","Natal multimammate mouse","Mastomys natalensis","Mastomys_natalensis",36,9.9,1.9,0.67,41.85,1.622
+"Eurasian badger, Meles meles","Eurasian badger","Meles meles","Meles_meles",174,2,1.4,0.396,11884.03,4.075
+"Gray mouse lemur, Microcebus murinus","Gray mouse lemur","Microcebus murinus","Microcebus_murinus",26,2,1.7,0.654,69,1.839
+"Prairie vole, Microtus ochrogaster","Prairie vole","Microtus ochrogaster","Microtus_ochrogaster",9,4.8,1.6,0.556,42.5,1.628
+"Tundra vole, Microtus oeconomus","Tundra vole","Microtus oeconomus","Microtus_oeconomus",21,5.3,1.6,0.381,33.1,1.52
+"House mouse, Mus musculus","House mouse","Mus musculus","Mus_musculus",143,5.6,1.2,0.203,19.3,1.286
+"House mouse, Mus musculus","House mouse","Mus musculus","Mus_musculus",146,4.1,1.4,0.336,19.3,1.286
+"Ermine, Mustela erminea","Ermine","Mustela erminea","Mustela_erminea",5,8.4,1.2,0.2,284.5,2.454
+"Grey red-backed vole, Myodes rufocanus","Grey red-backed vole","Myodes rufocanus","Myodes_rufocanus",215,4.3,1.2,0.233,NA,NA
+"Big-eared woodrat, Neotoma macrotis","Big-eared woodrat","Neotoma macrotis","Neotoma_macrotis",25,2.2,1.2,0.2,225.74,2.354
+"American mink, Neovison vison","American mink","Neovison vison","Neovison_vison",5,3.6,1.6,0.6,1075,3.031
+"White-tailed deer, Odocoileus virginianus","White-tailed deer","Odocoileus virginianus","Odocoileus_virginianus",27,2,1.4,0.37,75901.25,4.88
+"White-tailed deer, Odocoileus virginianus","White-tailed deer","Odocoileus virginianus","Odocoileus_virginianus",27,2,1.4,0.37,75901.25,4.88
+"White-tailed deer, Odocoileus virginianus","White-tailed deer","Odocoileus virginianus","Odocoileus_virginianus",27,2.1,1.3,0.259,75901.25,4.88
+"White-tailed deer, Odocoileus virginianus","White-tailed deer","Odocoileus virginianus","Odocoileus_virginianus",27,2.1,1.3,0.259,75901.25,4.88
+"Mouflon, Ovis aries","Mouflon","Ovis aries","Ovis_aries",80,2,1.7,0.738,39097.89,4.592
+"Canyon mouse, Peromyscus crinitus","Canyon mouse","Peromyscus crinitus","Peromyscus_crinitus",10,3.8,1.2,0.2,17,1.23
+"Guadeloupe racoon, Procyon lotor","Guadeloupe racoon","Procyon lotor","Procyon_lotor",8,4,1.9,0.875,6373.72,3.804
+"Yellow ground squirrel, Spermophilus fulvus","Yellow ground squirrel","Spermophilus fulvus","Spermophilus_fulvus",18,4.9,1.8,0.556,NA,NA
+"Wild boar, Sus scrofa","Wild boar","Sus scrofa","Sus_scrofa",30,4.5,1.1,0.1,169000,5.228
+"Eastern chipmunk, Tamias striatus","Eastern chipmunk","Tamias striatus","Tamias_striatus",43,2.8,2.5,0.86,93.4,1.97
+"Red squirrel, Tamiasciurus hudsonicus","Red squirrel","Tamiasciurus hudsonicus","Tamiasciurus_hudsonicus",44,3,2,0.727,200.24,2.302
+"Honey possum, Tarsipes rostratus","Honey possum","Tarsipes rostratus","Tarsipes_rostratus",5,2.4,2,1,9.66,0.985
+"Large treeshrew, Tupaia tana","Large treeshrew","Tupaia tana","Tupaia_tana",9,2,1.3,0.333,182.33,2.261
+"Columbian ground squirrel, Urocitellus columbianus","Columbian ground squirrel","Urocitellus columbianus","Urocitellus_columbianus",29,2.8,1.9,0.724,576,2.76
+"Columbian ground squirrel, Urocitellus columbianus","Columbian ground squirrel","Urocitellus columbianus","Urocitellus_columbianus",147,3,1.8,0.578,576,2.76
+"Richardson's ground squirrel, Urocitellus richardsonii","Richardson's ground squirrel","Urocitellus richardsonii","Urocitellus_richardsonii",15,5.7,2.1,0.8,360,2.556
+"Gray fox, Urocyon cinereoargenteus","Gray fox","Urocyon cinereoargenteus","Urocyon_cinereoargenteus",7,3.3,1.1,0.143,3833.71,3.584
+"American black bear, Ursus americanus","American black bear","Ursus americanus","Ursus_americanus",5,2.4,1.2,0.2,110500,5.043
+"Brown bear, Ursus arctos","Brown bear","Ursus arctos","Ursus_arctos",69,2,1.1,0.145,196287.5,5.293
+"Arctic fox, Vulpes lagopus","Arctic fox","Vulpes lagopus","Vulpes_lagopus",8,5.4,1.1,0.125,3584.37,3.554
+"Red fox, Vulpes vulpes","Red fox","Vulpes vulpes","Vulpes_vulpes",12,3.8,1.8,0.5,4820.36,3.683
+"Round-tailed ground squirrel, Xerospermophilus tereticaudus","Round-tailed ground squirrel","Xerospermophilus tereticaudus","Xerospermophilus_tereticaudus",31,4.1,2.5,0.548,163.3,2.213

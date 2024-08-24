@@ -1,0 +1,248 @@
+species,nbrood,avgbrood,minbrood,maxbrood,pmult,avgsire,minsire,maxsire,DNA,SocMon,Reference
+"Cooper's hawk, Accipiter cooperii",44,3.181818182,1,6,0.340909091,1.340909091,1,2,microsatellite,mono,Rosenfield et al. 2015
+"Great reed warbler, Acrocephalus arundinaceus",272,2.498196555,2,6,0.066176471,1.066176471,1,2,microsatellite,xmono,Hansson et al 2004
+"Black-browed reed-warbler, Acrocephalus bistrigiceps",37,3.783783784,3,6,0.135135135,1.135135135,1,2,microsatellite,xmono,Hamao & Saito 2005
+"Sedge warbler, Acrocephalus schoenobaenus",85,4.741176471,NA,NA,0.188235294,1.201680672,1,3,microsatellite,mono,Marshall et al 2007
+"Eurasian reed-warbler, Acrocephalus scirpaceus",52,3.576923077,NA,NA,0.153846154,1.153846154,1,2,microsatellite,mono,Davies et al 2003
+"Long-tailed tit, Aegithalos caudatus",48,7.75,NA,NA,0.125,1.125,1,2,microsatellite,mono,Hatchwell et al 2002
+"Boreal owl, Aegolius funereus",32,3.40625,NA,NA,0,1,1,1,microsatellite,mono,Koopman et al 2007
+"Yellow-shouldered blackbird, Agelaius xanthomus",30,2.9,NA,NA,0.366666667,1.5,1,3,microsatellite,xmono,Liu et al 2015
+"Seaside sparrow, Ammodramus maritimus",18,2.611111111,NA,NA,0.166666667,1.166666667,1,2,microsatellite,mono,Hill and Post 2005
+"Mallard, Anas platyrhynchos",25,9.961538462,NA,NA,0.48,1.6,1,3,microsatellite,xmono,Kreisinger et al 2010
+"Cape pendulin tit, Anthoscopus minutus",13,3.230769231,NA,NA,0.153846154,1.153846154,1,2,microsatellite,mono,Ball et al. 2017
+"Mexican jay, Aphelocoma ultramarina",51,2.725490196,NA,NA,0.62745098,1.764705882,1,3,microsatellite,mono,Li & Brown (2000)
+"Common swift, Apus apus",42,2.095238095,NA,NA,0.095238095,1.095238095,1,2,fingerprint,mono,Martins et al. 2002
+"Eastern imperial eagle, Aquila heliaca",86,1.930232558,NA,NA,0,1,1,1,microsatellite,mono,Rudnick et al 2005
+"Ridgway's hawk, Buteo ridgwayi",41,1.869565217,1,2,0,1,1,1,microsatellite,mono,Woolaver et al 2013
+"Swainsons hawk, Buteo swainsoni",27,2.074074074,NA,NA,0.034482759,1.034482759,1,2,microsatellite,mono,Briggs & Collopy 2012
+"Sanderling, Calidris alba",48,3.56,NA,NA,0.041666667,1.041666667,1,2,microsatellite,xmono,Reneerkens et al 2014
+"Scaled quail, Callipepla squamata",22,9.727272727,NA,NA,0.090909091,1.09,1,2,microsatellite,mono,Davis et al 2017
+"Eurasian linnet, Carduelis cannabina",22,4.818181818,NA,NA,0.090909091,1.090909091,1,2,microsatellite,mono,Bonlokke-Pedersen et al 2002
+"Scarlet rosefinch, Carpodacus erythrinus",75,4.290322581,NA,NA,0.32,2.3,1,5,microsatellite,mono,Albrecht et al 2007; Albrecht et al 2009
+"House finch, Carpodacus mexicanus",59,3.593220339,NA,NA,0.13559322,1.152542373,1,3,microsatellite,mono,Lindstedt et al 2007
+"Greater sage-grouse, Centrocercus urophasianus",191,6.314136126,NA,NA,0.073684211,1.073684211,1,2,microsatellite,xmono,Bird et al 2012
+"Greater sage-grouse, Centrocercus urophasianus",10,7.2,NA,NA,0.2,1.2,1,2,microsatellite,xmono,Semple et al (2001)
+"Black coucal, Centropus grillii",35,3.628571429,2,5,0.371428571,1.4,1,3,microsatellite,xmono,Muck et al 2009
+"Black guillemot, Cepphus grylle",32,1.4375,NA,NA,0,1,1,1,microsatellite,mono,Anker-Nilsson et al (2010)
+"Kentish plover, Charadrius alexandrinus",12,1.583333333,NA,NA,0,1,1,1,microsatellite,xmono,Maher et al 2017
+"Kentish plover, Charadrius alexandrinus",28,2.035714286,NA,NA,0,1,1,1,microsatellite,xmono,Maher et al 2017
+"Kentish plover, Charadrius alexandrinus",19,2.421052632,NA,NA,0,1,1,1,microsatellite,xmono,Maher et al 2017
+"Kentish plover, Charadrius alexandrinus",63,1.904761905,NA,NA,0.015873016,1.015873016,1,2,microsatellite,xmono,Maher et al 2017
+"Kentish plover, Charadrius alexandrinus",73,2.520547945,NA,NA,0.04109589,1.04109589,1,2,microsatellite,xmono,Maher et al 2017
+"Two-banded plover, Charadrius falklandicus",6,2.5,NA,NA,0,1,1,1,microsatellite,no_info,Maher et al 2017
+"White-fronted plover, Charadrius marginatus",10,1.7,NA,NA,0,1,1,1,microsatellite,mono,Maher et al 2017
+"Rufous-chested dotterel, Charadrius modestus",8,1.75,NA,NA,0,1,1,1,microsatellite,no_info,Maher et al 2017
+"Snowy plover, Charadrius nivosus",93,2.161290323,NA,NA,0,1,1,1,microsatellite,xmono,Maher et al 2017
+"Kittlitz's plover, Charadrius pecuarius",15,1.2,NA,NA,0,1,1,1,microsatellite,xmono,Maher et al 2017
+"Red-capped plover, Charadrius ruficapillus",4,1.75,NA,NA,0,1,1,1,microsatellite,no_info,Maher et al 2017
+"Madagascar plover, Charadrius thoracicus",12,1.666666667,NA,NA,0,1,1,1,microsatellite,mono,Maher et al 2017
+"Whiskered tern, Chlidonias hybrida",56,2.5,1,3,0.089285714,1.089285714,1,2,microsatellite,mono,Ledwo & Szczys (2021)
+"North American black tern, Chlidonias niger",11,2.545454545,NA,NA,0,1,1,1,microsatellite,mono,Shealer et al 2014
+"White-throated dipper, Cinclus cinclus",40,4.625,NA,NA,0.05,1.05,1,2,microsatellite,xmono,Oigarden et al 2010
+"Montagu's harrier, Circus pygargus",10,3.2,NA,NA,0.1,1.1,1,2,microsatellite,mono,Rutkowski et al 2014
+"Northern flicker, Colaptes auratus",53,6.924528302,NA,NA,0.018867925,1.018867925,1,2,microsatellite,mono,Wiebe & Kempenaers 2009
+"Campo Flicker, Colaptes campestris",33,2.727272727,NA,NA,0.03030303,1.03030303,1,2,microsatellite,xmono,Igor et al 2013
+"Northern bobwhite, Colinus virginianus",34,11.05882353,NA,NA,0.852941176,2.29,1,4,microsatellite,xmono,Davis et al 2017
+"Stellers jay, Cyanocitta stelleri",41,1.926829268,NA,NA,0.146341463,1.146341463,1,2,microsatellite,mono,Overeem et al 2014
+"Chestnut-sided warbler, Dendroica pensylvanica",33,2.878787879,NA,NA,0.606060606,1.696969697,1,3,microsatellite,mono,Byers et al 2004
+"Reed bunting, Emberiza schoeniclus",121,4,2,5,0.558823529,1.970588235,1,5,microsatellite,mono,Bouwman et al 2006
+"Acadian flycatcher, Empidonax virescens",12,2.416666667,NA,NA,0.25,1.25,1,2,microsatellite,mono,Evans et al 2009
+"Acadian flycatcher, Empidonax virescens",53,2.509433962,NA,NA,0.58490566,2.516129032,1,3,microsatellite,mono,Woolfenden et al 2005
+"Karoo scrub-robin, Erythropygia coryphaeus",12,2.75,NA,NA,0.333333333,1.333333333,1,2,microsatellite,mono,Ribeiro et al 2012
+"Lesser kestrel, Falco naumanni",23,3.130434783,NA,NA,0,1,1,1,microsatellite,mono,Alcaide et al 2005
+"Lesser kestrel, Falco naumanni",8,3,NA,NA,0.125,1.125,1,2,microsatellite,mono,Alcaide et al 2005
+"Red-footed falcon, Falco vespertinus",37,2.62162162,NA,NA,0.027027027,1.027027027,1,2,microsatellite,mono,Magonyi et al. (2021)
+"Pied flycatcher, Ficedula hypoleuca",296,5.915540541,3,8,0.189189189,1.219594595,1,4,microsatellite,xmono,Grinkov et al. 2018
+"Pied flycatcher, Ficedula hypoleuca",59,4.542372881,NA,NA,0.288135593,1.43220339,1,3,microsatellite,xmono,Moreno et al 2013
+"Red-breasted flycatcher, Ficedula parva",33,4.818181818,NA,NA,0.242424242,1.393939394,1,3,microsatellite,mono,Mitrus et al 2014
+"Yellow rumped flycatcher, Ficedula zanthopygia",64,5.078125,NA,NA,0.546875,1.546875,1,2,microsatellite,mono,Mingju et al 2017
+"Cactus finch, Geospiza scandens",66,2.409090909,NA,NA,0.151515152,1.166666667,1,3,microsatellite,mono,Petren et al. (1999)
+"Wood thrush, Hylocichla mustelina",51,2.960784314,NA,NA,0.137254902,1.137254902,1,2,microsatellite,mono,Evans et al 2008b
+"Yellow-breasted chat, Icteria virens",55,2.1,1,3,0.233333333,1.266666667,1,2,microsatellite,mono,Mino et al 2011b
+"Comb-crested jacana, Irediparra gallinacea",10,3.5,NA,NA,0.1,1.1,1,2,microsatellite,xmono,Haig et al 2003
+"Jabiru, Jabiru mycteria",13,2.615384615,NA,NA,0.076923077,1.384615385,1,2,microsatellite,mono,Lopes et al 2013
+"White-tailed ptarmigan, Lagopus leucura",18,3.222222222,NA,NA,0.166666667,1.166666667,1,2,microsatellite,mono,Benson 2002
+"Crimson-breasted shrike, Laniarius atrococcineus",41,1.804878049,NA,NA,0.268292683,1.268292683,1,2,microsatellite,mono,van den Heuvel et al 2014
+"Isabelline shrike, Lanius isabellinus",61,3.37704918,NA,NA,0.049180328,1.049180328,1,2,microsatellite,mono,Bao et al. 2019
+"Savi's warbler, Locustella luscinioides",102,3.843137255,NA,NA,0.058823529,1.058823529,1,2,microsatellite,mono,Neto et al 2010
+"Kalij pheasant, Lophura leucomelanos",13,6.076923077,NA,NA,0.538461538,1.769230769,1,3,microsatellite,xmono,Zeng et al 2016
+"Common crossbill, Loxia curvirostra",34,2.823529412,NA,NA,0,1,1,1,microsatellite,mono,Kleven et al 2008
+"Lovely fairy-wren, Malurus amabilis",29,2,1,3,0.275862069,1.379310345,1,3,microsatellite,xmono,Leitão et al. (2021)
+"Superb fairy-wren, Malurus cyaneus",12,2.25,1,3,0.333333333,1.416666667,1,3,microsatellite,mono,Colombelli-Negrel et al 2009
+"Song sparrow, Melospiza melodia",11,3.454545455,NA,NA,0.363636364,1.363636364,1,2,microsatellite,mono,Major and Barber 2004
+"Subdesert mesite, Monias benschi",11,1.545454545,1,2,0.181818182,1.181818182,1,1,microsatellite,xmono,Seddon et al 2005
+"Wood stork, Mycteria americana",29,3,NA,NA,0,1,1,1,microsatellite,mono,Mino et al 2011
+"Monk parakeet, Myiopsitta monachus",52,1.115384615,NA,NA,0,1,1,1,microsatellite,mono,Goncalves da Silva et al 2010
+"Monk parakeet, Myiopsitta monachus",14,1.928571429,NA,NA,0,1,1,1,microsatellite,mono,Goncalves da Silva et al 2010
+"Monk parakeet, Myiopsitta monachus",12,2.833333333,NA,NA,0,1,1,1,microsatellite,mono,Goncalves da Silva et al 2010
+"New Zealand hihi, Notiomystis cincta",485,3.171134021,NA,NA,0.437113402,1.579381443,1,5,microsatellite,mono,Brekke et al 2013
+"Elegant scops-owl, Otus elegans",108,1.851851852,NA,NA,0.009259259,1.009259259,1,2,microsatellite,mono,Hsu et al 2006
+"Golden whistlers, Pachycephala pectoralis",65,2,NA,NA,0.123076923,1.138461538,1,3,microsatellite,mono,van Dongen & Mulder 2009
+"Vinous-throated parrotbills, Paradoxornis webbianus",50,4.92,NA,NA,0.26,1.36,1,4,microsatellite,mono,"Lee 2012, Lee et al 2009"
+"Black-capped chickadee, Parus atricapillus",57,6.157894737,NA,NA,0.333333333,1.403508772,1,3,microsatellite,mono,Mennill et al 2004
+"Blue tit, Parus caeruleus",14,6.285714286,NA,NA,0.285714286,1.214285714,1,2,microsatellite,mono,Johannessen et al 2005
+"Great tit, Parus major",99,6.737373737,NA,NA,0.252525253,1.262626263,1,3,microsatellite,mono,van Oers et al 2008
+"Great tit, Parus major",13,6.307692308,NA,NA,0.307692308,1.307692308,1,2,microsatellite,mono,Johannessen et al 2005
+"Great tit, Parus major",47,6.468085106,NA,NA,0.553191489,1.617021277,1,3,microsatellite,mono,Garcia-Navas et al 2015
+"Varied tit, Parus varius",40,6.275,NA,NA,0.4,1.4,1,2,microsatellite,mono,Ju et al 2014
+"House sparrow, Passer domesticus",112,2.723214286,NA,NA,0.035714286,1.035714286,1,2,microsatellite,mono,Griffith et al 1999
+"House sparrow, Passer domesticus",56,3.303571429,NA,NA,0.285714286,1.285714286,1,2,microsatellite,mono,Griffith et al 1999
+"House sparrow, Passer domesticus",35,3.685714286,NA,NA,0.285714286,1.285714286,1,2,microsatellite,mono,Vaclav & Hoi 2007
+"Siberian jay, Perisoreus infaustus",23,1.739130435,NA,NA,0,1,1,1,microsatellite,mono,Gienapp & Merila 2010
+"New Zealand robin, Petroica australis",54,3.666666667,NA,NA,0.018518519,1.018518519,1,2,microsatellite,mono,Taylor et al 2008
+"Imperial shag, Phalacrocorax atriceps",37,2.972972973,NA,NA,0,1,1,1,microsatellite,mono,Calderon et al (2012)
+"Great cormorant, Phalacrocorax carbo",30,4.133333333,NA,NA,0.3,1.433333333,1,3,microsatellite,mono,Minias et al 2016
+"Red phalarope, Phalaropus fulicarius",18,3.888888889,NA,NA,0.333333333,1.333333333,1,2,microsatellite,xmono,Dale et al. (1999)
+"Saddleback, Philesturnus carunculatus",39,5.179487179,NA,NA,0,1,1,1,microsatellite,mono,Taylor et al. (2008)
+"Sociable weaver, Philetairus socius",20,2.8,NA,NA,0,1,1,1,microsatellite,mono,Covas et al 2006
+"Common redstart, Phoenicurus phoenicurus",38,6.657894737,NA,NA,0.105263158,1.105263158,1,2,microsatellite,mono,Kleven et al 2007
+"Wood warbler, Phylloscopus sibilatrix",3,2,NA,NA,0.333333333,1.333333333,1,2,microsatellite,mono,Grendelmeier et al 2017
+"Eurasian three-toed woodpecker, Picoides tridactylus",26,3.076923077,NA,NA,0.076923077,1.076923077,1,2,microsatellite,mono,Li et al 2009
+"Spotted towhee, Pipilo maculatus",145,2.51754386,NA,NA,0.351,1.606896552,1,3,microsatellite,mono,Smith et al 2016
+"Scarlet tanager, Piranga olivacea",17,3.176470588,NA,NA,0.294117647,1.529411765,1,3,microsatellite,mono,Klatt et al 2008
+"Crimsom rosella, Platycercus elegans",42,4.404761905,1,8,0,1,1,1,microsatellite,mono,Eastwood et al. 2018
+"American golden plover, Pluvialis dominica",31,3.451612903,NA,NA,0.161290323,1.161290323,1,2,microsatellite,mono,Yezerinac et al 2013
+"Ground tit, Pseudopodoces humilis",75,4.693333333,NA,NA,0.013333333,1.013333333,1,2,microsatellite,mono,Johannessen et al 2011
+"El oro parakeet, Pyrrhura orcesi",28,3.714285714,NA,NA,0.107142857,1.107142857,1,2,microsatellite,mono,Klauke et al 2013
+"Red-billed quelea, Quelea quelea",37,1.513513514,NA,NA,0.324324324,1.324324324,1,2,microsatellite,mono,Dallimer & Jones 2007
+"Cherrie's tanager, Ramphocelus costaricensis",31,1.8,1,2,0.133333333,1.133333333,1,2,microsatellite,mono,Krueger et al 2008
+"White-crowned penduline tit, Remiz coronatus",5,5.8,NA,NA,0,1,1,1,microsatellite,mono,Ball et al. 2017
+"Grey fantail, Rhipidura fuliginosa",25,1.96,2,3,0.64,1.8,1,3,microsatellite,mono,Hoffman et al 2010
+"Black-legged kittiwake, Rissa tridactyla",86,1.38372093,NA,NA,0,1,1,1,microsatellite,mono,Helfenstein et al 2004
+"Eastern bluebird, Sialia sialis",79,3.738095238,NA,NA,0.095238095,1.095238095,1,2,microsatellite,mono,Stewart et al 2010
+"Saffron finch, Sicalis flaveola",54,3.666666667,NA,NA,0.222222222,1.296296296,1,4,microsatellite,mono,BenitezSaldivar et al. 2019
+"European nuthatch, Sitta europaea",32,5.875,NA,NA,0.375,1.375,1,2,microsatellite,mono,Segelbacher et al 2005
+"Dickcissel, Spiza americana",92,2.369565217,NA,NA,0.282608696,1.326086957,1,3,microsatellite,xmono,Sousa & Westneat 2013
+"Field sparrow, Spizella pusilla",80,3.85,NA,NA,0.8,1.5,1,3,microsatellite,mono,Celis-Murillo et al 2017
+"Southern emu-wren, Stipiturus malachurus",27,1.851851852,1,3,0.074074074,1.074074074,1,2,microsatellite,mono,Maguire & Mulder 2008
+"Tawny owl, Strix aluco",37,3.702702703,NA,NA,0.027027027,1.027027027,1,2,microsatellite,mono,Saladin et al 2007
+"Apostlebird, Struthidea cinerea",15,2.733333333,NA,NA,0,1,1,1,microsatellite,xmono,Woxvold & Mulder 2008
+"Apostlebird, Struthidea cinerea",78,2.302325581,NA,NA,0.042857143,1.042857143,1,2,microsatellite,xmono,Warrington et al 2013
+"Ostrich, Struthio camelus",4,6.75,NA,NA,1,2.5,2,3,microsatellite,xmono,Kimwele & Graves 2003
+"Tree swallow, Tachycineta bicolor",99,5.070707071,NA,NA,0.682926829,1.841463415,1,4,microsatellite,mono,Stapleton et al 2007
+"Tree swallow, Tachycineta bicolor",21,4.952380952,1,7,0.761904762,2.095238095,1,3,microsatellite,mono,Kempenaers et al 2001
+"Tree swallow, Tachycineta bicolor",40,5.4,NA,NA,0.85,2.075,1,4,microsatellite,mono,"O'Brien & Dawson 2007, Bitton et al 2007"
+"Chilean swallow, Tachycineta meyeni",52,3.096153846,NA,NA,0.115384615,1.134615385,1,3,microsatellite,mono,Ferretti et al 2016
+"Zebra finch, Taeniopygia guttata",80,3.95,NA,NA,0.05,1.05,1,2,microsatellite,mono,Griffith et al 2010
+"Black grouse, Tetrao tetrix",130,7.083333333,NA,NA,0.020833333,1.041666667,1,3,microsatellite,xmono,Lebigre et al 2007
+"Black-crowned antshrike, Thamnophilus atrinucha",50,1.78,NA,NA,0.04,1.04,1,2,microsatellite,mono,Tarwater et al 2013
+"Buff-breasted wrens, Thryothorus leucotis",31,1.709677419,2,3,0.032258065,1.032258065,1,2,microsatellite,mono,Gill et al 2005
+"Banded wren, Thryothorus pleurostictus",50,3.12,NA,NA,0.1,1.1,1,2,microsatellite,mono,Cramer et al 2011
+"Rufous-and-white wren, Thryothorus rufalbus",51,3.098039216,NA,NA,0.058823529,1.058823529,1,2,microsatellite,mono,Douglas et al 2012
+"House wren, Troglodytes aedon",9,6,NA,NA,0.111111111,1.111111111,1,2,microsatellite,mono,Brylawski & Whittingham 2004
+"House wren, Troglodytes aedon",181,4.73480663,NA,NA,0.375690608,1.528618785,1,6,microsatellite,mono,Cramer et al 2013
+"Pied babbler, Turdoides bicolor",61,2.37704918,NA,NA,0.049180328,1.049180328,1,2,microsatellite,mono,Nelson-Flower et al 2011
+"Prairie chicken, Tympanuchus cupido",25,8.5,NA,NA,0.44,1.64,1,4,microsatellite,xmono,Hess et al 2012
+"Scissor-tailed flycatchers, Tyrannus forficatus",140,3.928571429,3,6,0.435714286,1.650406504,1,4,microsatellite,mono,Roeder et al. 2019
+"Barn owl, Tyto alba",95,4.789473684,NA,NA,0.021052632,1.021052632,1,2,microsatellite,mono,Henry et al 2013
+"Golden-winged warblers, Vermivora chrysoptera",54,4.37037037,NA,NA,0.538461538,1.705576923,1,4,microsatellite,mono,Vallender et al 2007
+"White-eyed vireo, Vireo griseus",36,2.833333333,NA,NA,0.055555556,1.055555556,1,2,microsatellite,mono,Campomizzi et al 2012
+"Blue-black grassquits, Volatinia jacarina",11,1.818181818,NA,NA,0.363636364,1.363636364,1,2,microsatellite,mono,Carvalho et al 2006
+"Brown thornbill, Acanthiza pusilla",67,2.656716418,2,4,0.104477612,1.104477612,1,2,fingerprint,NA,Green et al. 2002
+"Great reed warbler, Acrocephalus arundinaceus",48,4.041666667,NA,NA,0.020833333,1.020833333,1,2,fingerprint,NA,Leisler et al (2000)
+"Great reed warbler, Acrocephalus arundinaceus",162,4.185185185,NA,NA,0.061728395,1.061728395,1,2,fingerprint,NA,Hasselquist et al. (1996)
+"Sedge warbler, Acrocephalus schoenobaenus",44,4.568181818,4,6,0.204545455,1.227272727,1,3,fingerprint,NA,Langefors et al. 1998
+"Common sandpiper, Actitis hypoleucos",15,3.533333333,NA,NA,0.066666667,1.066666667,1,2,fingerprint,NA,Blomqvist et al 2002
+"Common sandpiper, Actitis hypoleucos",27,3.074074074,NA,NA,0.074074074,1.074074074,1,2,fingerprint,NA,MEE et al 2004
+"Florida scrub-jay, Aphelocoma coerulescens",60,2.316666667,NA,NA,0,1,1,1,fingerprint,NA,Quinn et al. (1999)
+"Long-eared owl, Asio otus",12,4.916666667,NA,NA,0,1,1,1,fingerprint,NA,Marks et al 1999
+"Little owl, Athene noctua",16,3.3125,NA,NA,0,1,1,1,fingerprint,NA,Mller et al. (2001)
+"Tufted titmouse, Baeolophus bicolor",9,3.777777778,NA,NA,0.111111111,1.111111111,1,2,fingerprint,NA,Pravosudova et al 2002
+"Barnacle goose, Branta leucopsis",9,2.72,NA,NA,0,1,1,1,fingerprint,NA,Choudhury et al. (1993)
+"Barnacle goose, Branta leucopsis",63,2.174603175,NA,NA,0,1,1,1,fingerprint,NA,Larsson et al. (1995)
+"Red-billed buffalo weaver, Bubalornis niger",6,2.666666667,NA,NA,0.5,1.5,1,2,fingerprint,NA,Winterbottom et al 2001
+"Galapagos hawk, Buteo galapagoensis",10,2.2,NA,NA,0,1,1,1,fingerprint,NA,Faaborg et al. (1995)
+"Smiths longspur, Calcarius pictus",31,3.677419355,NA,NA,0.774193548,1.903225806,1,3,fingerprint,NA,Briskie et al. (1998)
+"Purple sandpiper, Calidris maritima",27,3.037037037,3,4,0.037037037,1.037037037,1,2,fingerprint,NA,Pierce & Lifjeld (1998)
+"Western sandpiper, Calidris mauri",25,2.44,NA,NA,0.08,1.08,1,2,fingerprint,NA,Blomqvist et al 2002
+"Stripe-backed wren, Campylorhynchus nuchalis",34,2.029411765,NA,NA,0.117647059,1.117647059,1,2,fingerprint,NA,Rabenold et al. (1990)
+"Northern cardinal, Cardinalis cardinalis",19,1.947368421,NA,NA,0.052631579,1.052631579,1,2,fingerprint,NA,Ritchison et al. (1994)
+"Brown skua, Catharacta lonnbergi",26,1.730769231,1,2,0.076923077,1.076923077,1,2,fingerprint,NA,Millar et al. (1994)
+"South polar skua, Catharacta maccormicki",13,1.076923077,1,2,0,1,1,1,fingerprint,NA,Millar et al. (1997)
+"Dusky antbird, Cercomacra tyrannina",9,1.666666667,NA,NA,0,1,1,1,fingerprint,NA,Fleischer et al. (1997)
+"Kentish plover, Charadrius alexandrinus",65,2.615384615,NA,NA,0.015384615,1.015384615,1,2,fingerprint,NA,Blomqvist et al 2002
+"Ringed plover, Charadrius hiaticula",18,2.777777778,NA,NA,0,1,1,1,fingerprint,NA,Wallander et al 2001
+"Semipalmated plover, Charadrius semipalmatus",24,3.541666667,NA,NA,0,1,1,1,fingerprint,NA,Zharikov & Nol (2000)
+"Ross's goose, Chen rossii",24,3.458333333,NA,NA,0.083333333,1.083333333,1,2,fingerprint,NA,Dunn et al. (1999)
+"Black vulture, Coragyps atratus",16,2.25,NA,NA,0,1,1,1,fingerprint,NA,Decker et al. (1993)
+"White-winged chough, Corcorax melanorhamphos",28,2.428571429,NA,NA,0,1,1,1,fingerprint,NA,Heinsohn et al 2000
+"Eurasian jackdaw, Corvus monedula",20,3.7,NA,NA,0,1,1,1,fingerprint,NA,Henderson et al. 2000
+"Eurasian jackdaw, Corvus monedula",15,2.6,NA,NA,0.066666667,1.066666667,1,2,fingerprint,NA,Liebers & Peter 1998
+"Burrowing parakeet, Cyanoliseus patagonus",49,3.387755102,NA,NA,0,1,1,1,fingerprint,NA,Masello et al 2002
+"Laughing kookaburra, Dacelo novaeguineae",62,2.258064516,NA,NA,0,1,1,1,fingerprint,NA,Legge & Cockburn (2000)
+"House martin, Delichon urbicum",19,3.263157895,NA,NA,0.315789474,1.684210526,1,3,fingerprint,NA,Riley et al. 1995
+"Great spotted woodpecker, Dendrocopos major",36,4.472222222,NA,NA,0,1,1,1,fingerprint,NA,Michalek & Winkler 2001
+"Middle spotted woodpecker, Dendrocopos medius",13,4.692307692,NA,NA,0,1,1,1,fingerprint,NA,Michalek & Winkler 2001
+"Yellowhammer, Emberiza citrinella",32,3.84375,NA,NA,0.6875,1.75,1,3,fingerprint,NA,Sundberg & Dixon (1996)
+"Eurasian dotterel, Eudromias morinellus",22,2,1,3,0.090909091,1.090909091,1,2,fingerprint,NA,Owens et al. (1995)
+"Fiordland penguin, Eudyptes pachyrhynchus",24,1.375,1,2,0,1,1,1,fingerprint,NA,McLean et al 2000
+"Royal penguin, Eudyptes schlegeli",13,2,2,2,0.076923077,1.076923077,1,2,fingerprint,NA,St clair et al. (1995)
+"Merlin, Falco columbarius",18,3.333333333,NA,NA,0,1,1,1,fingerprint,NA,Warkentin et al. (1994)
+"Eleonoras falcon, Falco eleonorae",17,3.529411765,NA,NA,0,1,1,1,fingerprint,NA,Swatschek et al. (1993)
+"Lesser kestrel, Falco naumanni",26,3.346153846,NA,NA,0,1,1,1,fingerprint,NA,Negro et al. (1996)
+"Eurasian kestrel, Falco tinnunculus",75,4.253333333,3,6,0.013333333,1.013333333,1,2,fingerprint,NA,Korpimki et al. (1996)
+"Pied flycatcher, Ficedula hypoleuca",27,5,NA,NA,0.148148148,1.185185185,1,3,fingerprint,NA,Lifjeld et al 1991
+"Tasmanian native hen, Gallinula mortierii",6,4.666666667,NA,NA,0,1,1,1,fingerprint,NA,Gibbs et al. (1994)
+"Common loon, Gavia immer",47,1.234042553,NA,NA,0,1,1,1,fingerprint,NA,Piper et al. (1997)
+"Australian magpie-lark, Grallina cyanoleuca",47,2.191489362,NA,NA,0.063829787,1.063829787,1,2,fingerprint,NA,Hall & Magrath (2000)
+"Eurasian oystercatcher, Haematopus ostralegus",26,2.5,NA,NA,0.038461538,1.038461538,1,2,fingerprint,NA,Heg et al. (1993)
+"Barn swallow, Hirundo rustica",63,4.142857143,NA,NA,0.333333333,1.333333333,1,2,fingerprint,NA,Mller & Tegelstrm (1997)
+"Barn swallow, Hirundo rustica",11,4.090909091,NA,NA,0.363636364,1.363636364,1,2,fingerprint,NA,Smith et al 1991
+"Blue duck, Hymenolaimus malacorhynchos",10,1.4,NA,NA,0,1,1,1,fingerprint,NA,Triggs et al. (1991)
+"Eurasian wryneck, Jynx torquilla",50,5.84,NA,NA,0.02,1.02,1,2,fingerprint,NA,Wink et al 2011
+"Bull-headed shrike, Lanius bucephalus",24,4.125,NA,NA,0.166666667,1.166666667,1,2,fingerprint,NA,Yamagishi et al. (1992)
+"Red-backed shrike, Lanius collurio",6,3.166666667,NA,NA,0.166666667,1.166666667,1,2,fingerprint,NA,Fornasari et al. (1994)
+"Lesser gray shrike, Lanius minor",36,3.777777778,NA,NA,0,1,1,1,fingerprint,NA,Valera et al 2003
+"Common gull, Larus canus",24,2.291666667,NA,NA,0.083333333,1.083333333,1,2,fingerprint,NA,Bukacinska et al. (1998)
+"Western gull, Larus occidentalis",22,1.5,NA,NA,0,1,1,1,fingerprint,NA,Gilbert et al. (1998)
+"Palila, Loxioides bailleui",12,1.666666667,NA,NA,0,1,1,1,fingerprint,NA,Fleischer et al. (1994)
+"Noisy miner, Manorina melanocephala",35,2.428571429,NA,NA,0.057142857,1.057142857,1,2,fingerprint,NA,Poldmaa et al. (1995)
+"Bell miner, Manorina melanophrys",13,1.846153846,NA,NA,0.076923077,1.076923077,1,2,fingerprint,NA,Conrad et al. (1998)
+"Eastern screech-owl, Megascops asio",23,3.47826087,NA,NA,0,1,1,1,fingerprint,NA,Lawless & Ritchinson (1997)
+"Acorn woodpecker, Melanerpes formicivorus",19,2.684210526,NA,NA,0,1,1,1,fingerprint,NA,Dickinson et al. (1995)
+"Corn bunting, Miliaria calandra",15,2.933333333,NA,NA,0,1,1,1,fingerprint,NA,Hartley et al. (1993)
+"Northern wheatear, Oenanthe oenanthe",10,6.2,NA,NA,0.1,1.1,1,2,fingerprint,NA,Currie et al. (1999)
+"Northern wheatear, Oenanthe oenanthe",17,4.294117647,NA,NA,0.294117647,1.294117647,1,2,fingerprint,NA,Currie et al. (1998)
+"Flammulated owl, Otus flammeolus",17,2.176470588,NA,NA,0,1,1,1,fingerprint,NA,Arsenault et al 2002
+"Blue tit, Parus caeruleus",47,9.914893617,NA,NA,0.340425532,1.382978723,1,3,fingerprint,NA,Krokene et al. 1998
+"Great tit, Parus major",55,7.418181818,NA,NA,0.236363636,1.254545455,1,3,fingerprint,NA,Krokene et al. 1998
+"Great tit, Parus major",4,8.5,NA,NA,0.25,1.25,1,2,fingerprint,NA,Winkel et al 2001
+"Great tit, Parus major",78,8.730769231,NA,NA,0.397435897,1.397435897,1,2,fingerprint,NA,Strohbach et al 1998
+"Willow tit, Parus montanus",24,4.666666667,NA,NA,0.041666667,1.041666667,1,2,fingerprint,NA,Orell et al. (1997)
+"House sparrow, Passer domesticus",54,3.166666667,NA,NA,0.037037037,1.037037037,1,2,fingerprint,NA,Veiga & Boto 2000
+"House sparrow, Passer domesticus",17,3.117647059,NA,NA,0.117647059,1.117647059,1,2,fingerprint,NA,Cordero et al 1999
+"New Zealand robin, Petroica australis",37,1.675675676,NA,NA,0,1,1,1,fingerprint,NA,Ardern et al. (1997)
+"Phainopepla, Phainopepla nitens",25,1.92,NA,NA,0,1,1,1,fingerprint,NA,Chu et al 2002
+"Red-necked phalarope, Phalaropus lobatus",63,3.587301587,NA,NA,0.063492063,1.063492063,1,2,fingerprint,NA,Schamel et al 2004
+"Ruff, Philomachus pugnax",34,3,2,4,0.5,1.588235294,1,3,fingerprint,NA,Lank et al 2002
+"Wood warbler, Phylloscopus sibilatrix",13,4.307692308,NA,NA,0,1,1,1,fingerprint,NA,Gyllensten et al. (1990)
+"Willow warbler, Phylloscopus trochilus",19,6.315789474,NA,NA,0,1,1,1,fingerprint,NA,Gyllensten et al. (1990)
+"Red-cockaded woodpecker, Picoides borealis",44,1.818181818,NA,NA,0.022727273,1.022727273,1,2,fingerprint,NA,Haig et al. (1994)
+"Eurasian three-toed woodpecker, Picoides tridactylus",23,2.086956522,NA,NA,0.086956522,1.086956522,1,2,fingerprint,NA,Pechacek et al 2005
+"Takahe, Porphyrio hochstetteri",9,3,NA,NA,0,1,1,1,fingerprint,NA,Lettink et al 2002
+"Pukeko, Porphyrio porphyrio",12,6.166666667,5,11,1,2.083333333,2,3,fingerprint,NA,Jamieson et al. (1994)
+"Alpine accentor, Prunella collaris",38,2.894736842,NA,NA,0.5,1.552631579,1,3,fingerprint,NA,Hartley et al. (1995)
+"Alpine accentor, Prunella collaris",5,3.4,2,4,0.6,1.8,1,3,fingerprint,NA,Heer 1996
+"Dunnock, Prunella modularis",45,2.955555556,1,4,0.288888889,1.288888889,1,2,fingerprint,NA,Burke et al. (1989)
+"Bushtit, Psaltriparus minimus",10,5.9,NA,NA,0,1,1,1,fingerprint,NA,Bruce et al. (1996)
+"Adelie penguin, Pygoscelis adeliae",18,1.222222222,NA,NA,0.111111111,1.111111111,1,2,fingerprint,NA,Pilastro et al. (2001)
+"Chinstrap penguin, Pygoscelis antarcticus",38,2,NA,NA,0,1,1,1,fingerprint,NA,Moreno et al. (2000)
+"Canary, Serinus canaria",15,3,NA,NA,0,1,1,1,fingerprint,NA,Voigt et al 2003
+"Serin, Serinus serinus",21,2.904761905,NA,NA,0,1,1,1,fingerprint,NA,Mota & Hoi-Leitner 2003
+"Eastern bluebird, Sialia sialis",21,3.952380952,NA,NA,0.238095238,1.238095238,1,2,fingerprint,NA,Meek et al. (1994)
+"Humboldt penguin, Spheniscus humboldti",21,2.333333333,NA,NA,0,1,1,1,fingerprint,NA,Schwartz et al. (1999)
+"Wilson's phalarope, Steganopus tricolor",15,2.866666667,NA,NA,0,1,1,1,fingerprint,NA,Delehanty et al. (1998)
+"Common tern, Sterna hirundo",10,2.9,NA,NA,0,1,1,1,fingerprint,NA,Griggio et al 2004
+"Common tern, Sterna hirundo",34,3,NA,NA,0.029411765,1.029411765,1,2,fingerprint,NA,Gonzalez-Solis et al 2001
+"Common starling, Sturnus vulgaris",14,4.428571429,NA,NA,0.285714286,1.5,1,3,fingerprint,NA,Pinxten et al 1993
+"Common starling, Sturnus vulgaris",22,4.181818182,NA,NA,0.318181818,1.318181818,1,2,fingerprint,NA,Smith & von Schantz (1993)
+"Nazca booby, Sula granti",21,1.523809524,1,2,0,1,1,1,fingerprint,NA,Anderson & Boag (2006)
+"Zebra finch, Taeniopygia guttata",25,3.28,NA,NA,0.08,1.08,1,2,fingerprint,NA,Birkhead et al. (1990)
+"Black grouse, Tetrao tetrix",11,6,NA,NA,0,1,1,1,fingerprint,NA,Alatalo et al. (1996b)
+"Carolina wren, Thryothorus ludovicianus",23,3.652173913,NA,NA,0,1,1,1,fingerprint,NA,Haggerty et al. (2001)
+"Monteiros hornbill, Tockus monteiri",38,3.552631579,NA,NA,0,1,1,1,fingerprint,NA,Stanback et al 2002
+"House wren, Troglodytes aedon",146,5.410958904,NA,NA,0.267123288,1.280821918,1,3,fingerprint,NA,Soukup & Thompson (1997)
+"Arabian babbler, Turdoides squamiceps",44,4.227272727,NA,NA,0.090909091,1.090909091,1,2,fingerprint,NA,Lundy et al. (1998)
+"Southern lapwing, Vanellus chilensis",16,2.5625,NA,NA,0.1875,1.1875,1,2,fingerprint,NA,Saracura et al 2008
+"Blue-headed vireo, Vireo solitarius",16,2.3125,NA,NA,0.0625,1.0625,1,2,fingerprint,NA,Morton et al. (1998)
+"Capricorn silvereye, Zosterops lateralis",53,2.301886792,NA,NA,0,1,1,1,fingerprint,NA,Robertson et al. (2001)
