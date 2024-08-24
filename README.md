@@ -3,7 +3,7 @@
 
 Code and data for phylogenetic mixed model analyses of multiple paternity in animals:
 
-Dobson, F. S., Correia, H. E., Abebe, A. (2024) How much multiple paternity should we expect? A study of birds and contrast with mammals. Ecology \& Evolution. 14(e11054). [[https://doi.org/10.1098/rspb.2018.2042](https://doi.org/10.1002/ece3.11054)](https://doi.org/10.1002/ece3.11054) - see [📁 EE](EE) \
+Dobson, F. S., Correia, H. E., Abebe, A. (2024) How much multiple paternity should we expect? A study of birds and contrast with mammals. Ecology \& Evolution. 14(e11054). [https://doi.org/10.1002/ece3.11054](https://doi.org/10.1002/ece3.11054) - see [📁 EE](EE) \
 - Replication Data and Code also held at [https://doi.org/10.7910/DVN/IRAKE9](https://doi.org/10.7910/DVN/IRAKE9).
 \
 \
